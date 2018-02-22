@@ -1,0 +1,49 @@
+body {
+   background-color: white;
+   color: black;
+   font-family: 'Playfair Display', serif;
+   font-size: 16px;
+   font-weight: 200;
+   line-height: 1.6;
+   margin: auto;
+   padding-bottom: 36px;
+   width: 768px;
+}
+
+h1 {
+   font-family: 'PT Sans Narrow', sans-serif;
+   font-size: 3rem;
+   text-align: center;
+}
+
+h2 {
+   font-family: 'PT Sans Narrow', sans-serif;
+   font-size: 2.25rem;
+   margin-top: 48px;
+   text-align: center;
+}
+
+div {
+   display: block;
+   text-align: center;
+}
+
+div p {
+   font-size: 14px;
+   margin: 0;
+}
+
+div a {
+   border: 0;
+}
+
+a {
+   border-bottom: 1px solid #fdc1c1;
+   color: #d62a67;
+   padding-bottom: 3px;
+   text-decoration: none;
+}
+
+li {
+   margin: 6px;
+}
